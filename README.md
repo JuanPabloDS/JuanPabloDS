@@ -1,4 +1,4 @@
-Olá! Eu sou o Juan Pablo
+Olá! Sou o Juan Pablo
 
 
 <div align="center">
